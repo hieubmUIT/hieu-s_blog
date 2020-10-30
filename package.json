@@ -1,0 +1,32 @@
+{
+  "name": "hieu_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhieub/hieu-s_blog.git"
+  },
+  "keywords": [
+    "hieubm",
+    "blog",
+    "hieubm"
+  ],
+  "author": "hieubm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhieub/hieu-s_blog/issues"
+  },
+  "homepage": "https://github.com/minhieub/hieu-s_blog#readme",
+  "dependencies": {
+    "expess": "0.0.1-security",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
